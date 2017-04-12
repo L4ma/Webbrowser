@@ -1,0 +1,11 @@
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\Webbrowser by L4ma.exe.config
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\Webbrowser by L4ma.exe
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\Webbrowser by L4ma.pdb
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\Webbrowser by L4ma.xml
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\Webbrowser by L4ma.exe
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\Webbrowser by L4ma.xml
+C:\Users\Marco-PC\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\Webbrowser by L4ma.pdb

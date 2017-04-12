@@ -1,0 +1,10 @@
+E:\Anwendungen\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe.config
+E:\Anwendungen\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe
+E:\Anwendungen\Webbrowser\Webbrowser\bin\Debug\Webbrowser.pdb
+E:\Anwendungen\Webbrowser\Webbrowser\bin\Debug\Webbrowser.xml
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\WindowsApp1.Form1.resources
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\WindowsApp1.Resources.resources
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\Webbrowser.vbproj.GenerateResource.Cache
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\Webbrowser.exe
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\Webbrowser.xml
+E:\Anwendungen\Webbrowser\Webbrowser\obj\Debug\Webbrowser.pdb
